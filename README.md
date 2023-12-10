@@ -39,7 +39,7 @@ export ARM_SUBSCRIPTION_ID="***"
 ````
 
 5. Alias Terraform command in the CLI
-
+```
 alias tf=terraform
 
 
