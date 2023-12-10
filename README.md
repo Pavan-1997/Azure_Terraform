@@ -18,8 +18,8 @@ az login
 ```
 
 2. Create a Service Princle along with a contributer role
-
-az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/c20379ae-4a34-42d6-bef7-55273c6630f6"
+```
+az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/<ID>"
 
 If getting any error then set below enviroment variable
 
