@@ -67,7 +67,7 @@ tf fmt
 ```
 ```
 tf destroy or tf destroy --auto-approve
-
+```
 7. Goto Storage Accounts in Azure Portal 
 
 Select Resource group
