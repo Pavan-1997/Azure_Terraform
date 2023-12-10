@@ -31,7 +31,7 @@ export SYS_NO_PATHCONV=1
 az login --service-principal -u "CLIENT_ID" -p "CERTIFICATE_PEM" --tenant "TENANT_ID"
 ```
 4. Export the below enviromant variables
-
+```
 export ARM_CLIENT_ID="***"
 export ARM_CLIENT_SECRET="***"
 export ARM_TENANT_ID="***"
