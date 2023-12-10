@@ -41,7 +41,7 @@ export ARM_SUBSCRIPTION_ID="***"
 5. Alias Terraform command in the CLI
 ```
 alias tf=terraform
-
+```
 
 6. Its always better to put any files other than .tf in gitignore and tfvars file as well
 
