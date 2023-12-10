@@ -70,23 +70,23 @@ tf destroy or tf destroy --auto-approve
 ```
 7. Goto Storage Accounts in Azure Portal 
 
-Select Resource group
-
-Use a unique name to Storage account name
-
-Select a Region
-
-Select a Standard in Performance
-
-Select a Local-redundant storage (LRS)
-
-Click on Next
-
-In Data protection tab enable versioning for blobs
-
-Click on Review and Create
-
-Now the Storage Account is created
-
-Goto Containers on the left side -> Click on the + Container -> Give a name and click on Create
+  Select Resource group
+  
+  Use a unique name to Storage account name
+  
+  Select a Region
+  
+  Select a Standard in Performance
+  
+  Select a Local-redundant storage (LRS)
+  
+  Click on Next
+  
+  In Data protection tab enable versioning for blobs
+  
+  Click on Review and Create
+  
+  Now the Storage Account is created
+  
+  Goto Containers on the left side -> Click on the + Container -> Give a name and click on Create
 
