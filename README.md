@@ -21,7 +21,7 @@ az login
 ```
 az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/<ID>"
 ```
-If getting any error then set below enviroment variable
+  If getting any error then set below enviroment variable
 ```
 export SYS_NO_PATHCONV=1
 ```
