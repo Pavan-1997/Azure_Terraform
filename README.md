@@ -29,7 +29,7 @@ export SYS_NO_PATHCONV=1
 3. Now test the values using below 
 ```
 az login --service-principal -u "CLIENT_ID" -p "CERTIFICATE_PEM" --tenant "TENANT_ID"
-
+```
 4. Export the below enviromant variables
 
 export ARM_CLIENT_ID="***"
