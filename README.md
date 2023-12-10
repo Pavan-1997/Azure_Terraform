@@ -58,6 +58,7 @@ tf plan
 ```
 ```
 tf plan | grep "will be created"
+```
 tf apply or tf apply --auto-approve
 tf destroy or tf destroy --auto-approve
 
