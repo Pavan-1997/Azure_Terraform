@@ -50,6 +50,7 @@ tf init
 ```
 tf fmt
 ```
+```
 tf validate
 tf plan (Dry Run
 tf plan | grep "will be created"
