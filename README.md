@@ -13,9 +13,9 @@
 ## Implementation
 
 1. Login to Azure
-
+```
 az login 
-
+```
 
 2. Create a Service Princle along with a contributer role
 
