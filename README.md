@@ -28,8 +28,7 @@ export SYS_NO_PATHCONV=1
 
 3. Now test the values using below 
 
-az login --service-principal -u ceb34eac-496a-4af3-9d67-09f13a181f94 -p mqy8Q~GQgXdiPrWQB2MStGFfUPuRCvtQp~3hwcmF --tenant b7ed394b-617a-46e5-a8b2-fc3b310735a1
-
+az login --service-principal -u "CLIENT_ID" -p "CERTIFICATE_PEM" --tenant "TENANT_ID"
 
 4. Export the below enviromant variables
 
