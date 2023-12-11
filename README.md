@@ -8,7 +8,7 @@
 
 ![image](https://github.com/Pavan-1997/Azure_Terraform/assets/32020205/ec625ac0-74d7-4c90-beb2-0b72ec5aaab1)
 
---- 
+---  
  
 ## Implementation
 
