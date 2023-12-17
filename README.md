@@ -100,3 +100,4 @@ tf destroy or tf destroy --auto-approve
 
 ![TF-BACKEND](https://github.com/Pavan-1997/Azure_Terraform/assets/32020205/629c8535-8e16-4b4e-9f6e-44f148d2d490)
 
+![TF-BACKEND-SA](https://github.com/Pavan-1997/Azure_Terraform/assets/32020205/9d7b0e37-816d-459e-af6a-1540d5f67e3a)
