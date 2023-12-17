@@ -47,6 +47,8 @@ alias tf=terraform
 ```
 tf init
 ```
+![AZ-TF-INIT](https://github.com/Pavan-1997/Azure_Terraform/assets/32020205/d2228328-6196-454c-85cc-774938941a19)
+
 ```
 tf fmt
 ```
