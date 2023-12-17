@@ -95,4 +95,7 @@ tf destroy or tf destroy --auto-approve
     Now the Storage Account is created
     
     Goto Containers on the left side -> Click on the + Container -> Give a name and click on Create
+
+   ![STORAGE-ACCOUNT](https://github.com/Pavan-1997/Azure_Terraform/assets/32020205/5a67d62f-ae27-4f3f-acdd-935b00a10ee9)
+
   
