@@ -63,6 +63,8 @@ tf plan
 ```
 tf plan | grep "will be created"
 ```
+![AZ-TF-PLAN1](https://github.com/Pavan-1997/Azure_Terraform/assets/32020205/51e5e9f0-12ab-476d-aa69-5eb2999ef39d)
+
 ```
 tf apply or tf apply --auto-approve
 ```
