@@ -58,6 +58,8 @@ tf validate
 ```
 tf plan
 ```
+![AZ-TF-PLAN](https://github.com/Pavan-1997/Azure_Terraform/assets/32020205/f4096bdc-1c4e-4bfd-8b74-d5aaeb2db10b)
+
 ```
 tf plan | grep "will be created"
 ```
